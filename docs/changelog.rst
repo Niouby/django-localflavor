@@ -11,6 +11,8 @@ New flavors:
 New fields for existing flavors:
 - Added BRPostalCodeField, BRCPFField, BRCNPJField models fields.
 
+- `EircodeField` in IE flavor
+
 Modifications to existing flavors:
 
 - None
